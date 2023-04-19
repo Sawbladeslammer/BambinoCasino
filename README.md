@@ -30,4 +30,5 @@ As explained before, you will need Truffle Tezos to recompile or deploy.
    ```sh
    truffle deploy --network edo2net --reset
    ```
+This is my first time so I have no idea if that worked! 
 
